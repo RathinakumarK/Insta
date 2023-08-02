@@ -7,3 +7,5 @@ Testing Demo
 2.Homepage
 
 3.Adding Friends
+
+4.Post a pictures and videos
