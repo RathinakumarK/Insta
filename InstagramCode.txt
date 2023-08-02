@@ -1,0 +1,9 @@
+INSTAGRAM
+
+Testing Demo
+
+1.Login page
+
+2.Homepage
+
+3.Adding Friends
